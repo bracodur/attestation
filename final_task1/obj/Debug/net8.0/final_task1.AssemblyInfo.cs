@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("final_task1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37507505ca1e05f13c6b44c368133a1743deaaf3")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+886da6fbf6cc20e2c1e9046992b4cb466416a713")]
+>>>>>>> images
 [assembly: System.Reflection.AssemblyProductAttribute("final_task1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("final_task1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
